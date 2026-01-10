@@ -1,0 +1,11 @@
+# Ignore Vivado Junk
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+*.xpr
+.Xil/
+project_*/
+*.bit
+*.dcp
