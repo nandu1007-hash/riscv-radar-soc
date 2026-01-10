@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 // ---------------------------------------------------------------------
 // Module: Register File
 // Description: 32x32-bit register bank.
